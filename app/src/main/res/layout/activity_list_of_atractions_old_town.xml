@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/star"
+    android:padding="16dp"
+    tools:context="com.example.andraburuiana.tourguide.list_of_parks">
+
+    <TextView
+        android:id="@+id/text_park_22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Old Town"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_23"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Sigismund Column"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Copper-Roof Palace"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Adam Mickiewicz Museum of Literature"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_26"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Mermaid Statue"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Royal Castle"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_28"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Grand Theatre"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+
+
+</LinearLayout>

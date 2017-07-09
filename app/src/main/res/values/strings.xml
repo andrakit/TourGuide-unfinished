@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="text1">Welcome to WAW Tour! Here you will find information about unforgettable places in the capital of Poland!</string>
+    <string name="write1">cursive</string>
+    <string name="waw_tour">WAW Tour</string>
+    <string name="site_old_town">http://warsawtour.pl/en/warsaw-for-everyone/old-town-and-surroundings-2946.html</string>
+    <string name="site_copernic">http://www.kopernik.org.pl/en/</string>
+    <string name="site_park">http://www.lazienki-krolewskie.pl/en?langset=true</string>
+    <string name="site_manekin">http://manekin.pl/</string>
+    <string name="description1">Old Town- The place where history and joy grab their hands and create a beautiful universe. Once you make your first step on its grounds, you will never want to leave.</string>
+    <string name="txt3">Centrum Nauki Copernic- Have you ever wanted to go beyond the secrets of the world? Now, you can try anything you want, only at Centrum Nauki Copernic.</string>
+    <string name="site_style2">monospace</string>
+    <string name="site_style1">monospace</string>
+    <string name="descrip1">Park Łazienki- If you are seeking for nature, peace and getting out of daily life, definetely this park is for you.</string>
+    <string name="site_style3">monospace</string>
+    <string name="descr2">Manekin- If you come to Warsaw, you must go to the Master of Pancakes: Manekin. A wide variety of pancakes is waiting just for you.</string>
+    <string name="site_style4">monospace</string>
+    <string name="activity_name">Restaurants</string>
+    <string name="activity_name_2">Parks</string>
+    <string name="activity_name_3">Old Town</string>
+    <string name="activity_name_4">Museums</string>
+    <string name="activity_name_5">List of parks</string>
+    <string name="activity_name_6">List of restaurants</string>
+    <string name="activity_name_7">List of attractions in Old Town</string>
+    <string name="activity_name_8">List of museums</string>
+    <string name="txt">Manekin</string>
+</resources>

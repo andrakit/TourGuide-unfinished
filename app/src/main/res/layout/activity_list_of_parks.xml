@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/prk1"
+    android:padding="16dp"
+    tools:context="com.example.andraburuiana.tourguide.list_of_parks">
+
+    <TextView
+        android:id="@+id/text_park_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Park Łazienki"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Saxon Garden"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Krasinski Park"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Praski Park"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Pole Mokotowskie"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Ujadowski Park"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Skaryszewski Park"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+
+
+</LinearLayout>

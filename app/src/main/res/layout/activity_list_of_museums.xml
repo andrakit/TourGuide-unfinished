@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mzm2"
+    android:padding="16dp"
+    tools:context="com.example.andraburuiana.tourguide.list_of_parks">
+
+    <TextView
+        android:id="@+id/text_park_15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Centrum Nauki Copernic"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+
+        />
+
+    <TextView
+        android:id="@+id/text_park_16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="National Museum"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Museum of Caricature and Cartoon Art"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Warsaw Rising Museum"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Poster Museum"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Frederyk Chopin Museum"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/text_park_21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Palace of Culture and Science"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:padding="20dp"
+        />
+
+
+
+</LinearLayout>
